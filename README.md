@@ -26,6 +26,14 @@ Atualmente, estou em transição de carreira, cursando Ciência de Dados na Facu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-
+<br/>
+### 🧠💻 Competências Técnicas
+• Imersão Inteligência Artificial na prática • Imersão Dados com Python
+• Power Bi - Básico ao Avançado • Lógica de Programação
+• SQL básico • Python I 
+• Sistema Tasy • Sistema Unimed
+• Pacote Office • Google Sheets
+• HelpDesk • Oracle Data Platform 2025 Foundations Associate (Em andamento)
+• Introdução a gestão de Projetos • LGPD
 <br/>
 <br/>
