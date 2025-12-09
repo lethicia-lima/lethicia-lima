@@ -27,13 +27,27 @@ Atualmente, estou em transição de carreira, cursando Ciência de Dados na Facu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <br/>
-### 🧠💻 Competências Técnicas
-• Imersão Inteligência Artificial na prática • Imersão Dados com Python
-• Power Bi - Básico ao Avançado • Lógica de Programação
-• SQL básico • Python I 
-• Sistema Tasy • Sistema Unimed
-• Pacote Office • Google Sheets
-• HelpDesk • Oracle Data Platform 2025 Foundations Associate (Em andamento)
-• Introdução a gestão de Projetos • LGPD
-<br/>
-<br/>
+
+**Análise & Visualização:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="PowerBI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+</div>
+---
+
+### 🚀 Projetos em Destaque
+
+- **[Segmentação de Clientes Olist (Marketing Analytics)](https://github.com/JessicaRocha-dados/olist-customer-segmentation)**
+  - *Estratégia:* fornecer à equipe gerencial uma visão clara e acionável para monitorar o volume de trabalho, a conformidade com prazos (SLA) e a distribuição de recursos com base nos tipos de serviço.
+  - *Tecnologia:* Power BI (DAX, Power Query)
+---
+
+### 📫 Vamos conectar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lethicia-lima-090405221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lethiciaalmeida132@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
