@@ -36,7 +36,7 @@ Atualmente, estou em transição de carreira, cursando Ciência de Dados na Facu
 
 ### 🚀 Projetos em Destaque
 
-- **[Segmentação de Clientes Olist (Marketing Analytics)](https://github.com/JessicaRocha-dados/olist-customer-segmentation)**
+- **[Dashboard de Gestão e Performance de Ordens de Serviço (OS) no Power BI)](https://github.com/lethicia-lima/powerbi-dashboard-gestao-os)**
   - *Estratégia:* fornecer à equipe gerencial uma visão clara e acionável para monitorar o volume de trabalho, a conformidade com prazos (SLA) e a distribuição de recursos com base nos tipos de serviço.
   - *Tecnologia:* Power BI (DAX, Power Query)
 ---
