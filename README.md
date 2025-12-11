@@ -18,6 +18,16 @@ Atualmente, estou em transição de carreira, cursando Ciência de Dados na Facu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Jira" 
+    title="Jira"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="SQL" 
