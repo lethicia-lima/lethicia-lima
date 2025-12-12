@@ -46,12 +46,12 @@ Atualmente, estou em transição de carreira, cursando Ciência de Dados na Facu
 
 ### 🚀 Projetos em Destaque
 
-- **[Dashboard de Análise de Ordens de Serviço](https://github.com/lethicia-lima/dash-ordem-de-servi-o)**
-  - *Estratégia:* fornecer à equipe gerencial uma visão clara e acionável para monitorar o volume de trabalho, a conformidade com prazos (SLA) e a distribuição de recursos com base nos tipos de serviço.
+- **[Dashboard de Análise de Ordens de Serviço no Power BI](https://github.com/lethicia-lima/dash-ordem-de-servi-o)**
+  - *Estratégia:* fornecer à equipe gerencial do âmbito assistencial uma visão clara e acionável para monitorar o volume de trabalho, a conformidade com prazos (SLA) e a distribuição de recursos com base nos tipos de serviço.
   - *Tecnologia:* Power BI (DAX, Power Query)
     
 - **[Dashboard de Gestão e Performance de Ordens de Serviço (OS) no Power BI)](https://github.com/lethicia-lima/powerbi-dashboard-gestao-os)**
-  - *Estratégia:* fornecer à equipe gerencial uma visão clara e acionável para monitorar o volume de trabalho, a conformidade com prazos (SLA) e a distribuição de recursos com base nos tipos de serviço.
+  - *Estratégia:* fornecer à equipe gerencial do âmbito comercialuma visão clara e acionável para monitorar o volume de trabalho, a conformidade com prazos (SLA) e a distribuição de recursos com base nos tipos de serviço.
   - *Tecnologia:* Power BI (DAX, Power Query)
 ---
 
